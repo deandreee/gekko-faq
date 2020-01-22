@@ -31,7 +31,6 @@ Other strategy sources I've found (all credit to authors):
 - https://github.com/RJPGriffin/gekko
 - https://github.com/pflima92/my-gekko-strategies
 - https://github.com/CyborgDroid/gekkoIndicators
-- https://github.com/CyborgDroid/gekkoNeataptic
 - https://github.com/mono151/pumprider
 
 ## Where can I find more indicators?
