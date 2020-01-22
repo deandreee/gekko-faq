@@ -54,7 +54,8 @@ Also, [Green Gekko](https://github.com/mark-sch/gekko) supports multiple timefra
 
 You have not installed Gekko Broker's dependencies, see [here](https://gekko.wizb.it/docs/installation/installing_gekko.html#Installing-Gekko-39-s-dependencies)
 
-```cd exchange
+```
+cd exchange
 npm install --only=production
 ```
 
